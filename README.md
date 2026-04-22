@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  🚀 <b>Currently Working on:</b> <a href="https://github.com/ni3420/MViews.com.git">MViews.com</a> <br />
+  🚀 <b>Currently Working on:</b> <a href="https://github.com/Nitin-Saini-dev/MViews.com.git">MViews.com</a> <br />
   🌱 <b>Expanding into:</b> Backend Architecture with Node.js & Supabase RLS <br />
   📫 <b>Reach me at:</b> <a href="mailto:t92514920@gmail.com">t92514920@gmail.com</a>
 </p>
@@ -44,12 +44,12 @@
 ### <p align="center">📊 Terminal Intelligence (GitHub Stats)</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ni3420&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitin-Saini-dev&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin-Saini-dev&layout=compact&theme=tokyonight" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ni3420&theme=tokyonight" width="710" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin-Saini-dev&theme=tokyonight" width="710" />
 </p>
 
 ---
@@ -57,13 +57,13 @@
 ### <p align="center">🎮 Activity & Contributions</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ni3420&theme=tokyonight&bg_color=0D1117&hide_border=true" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitin-Saini-dev&theme=tokyonight&bg_color=0D1117&hide_border=true" width="800" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ni3420&icon=5&color=4" />
+  <img src="https://visitcount.itsvg.in/api?id=Nitin-Saini-dev&icon=5&color=4" />
   <br />
   <b>Developed with 💙 by Nitin Saini</b>
 </p>
