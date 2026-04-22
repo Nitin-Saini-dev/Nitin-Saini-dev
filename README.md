@@ -45,7 +45,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ni3420&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni3420&layout=compact&theme=tokyonight" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin-Saini-dev&layout=compact&theme=tokyonight" width="300" />
 </p>
 
 <p align="center">
